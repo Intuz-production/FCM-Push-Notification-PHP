@@ -1,14 +1,14 @@
-**<h1>Introduction - FCM Push Notification</h1>**
+<h1>Introduction - FCM Push Notification</h1>
 INTUZ is presenting an interesting FCM push notification class. 
-Please follow the below steps to integrate this control in your next project.
+Please follow the below steps to integrate this control in your project.
 
 <br/><br/>
-**<h1>Push notification operations</h1>**
+<h1>Push notification operations</h1>
 
-Send push notification to android and ios devices using fcm
+Send push notification to Android and iOS devices using FCM
 
 <br/><br/>
-**<h1>Example Usage</h1>**
+<h1>Example Usage</h1>
 
 define below constants somewhere in you main configuration parameters file
 ```
@@ -37,11 +37,11 @@ $push->sendnotification($deviceTokens, $parameters);
 ```
 
 <br/><br/>
-**<h1>Bugs and Feedback</h1>**
+<h1>Bugs and Feedback</h1>
 For bugs, questions and discussions please use the Github Issues.
 
 <br/><br/>
-**<h1>License</h1>**
+<h1>License</h1>
 The MIT License (MIT)
 <br/><br/>
 Copyright (c) 2018 INTUZ
