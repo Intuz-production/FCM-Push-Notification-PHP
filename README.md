@@ -10,13 +10,13 @@ Send push notification to Android and iOS devices using FCM
 <br/><br/>
 <h1>Example Usage</h1>
 
-define below constants somewhere in you main configuration parameters file
+Define below constants somewhere in your main configuration parameters file
 ```
 define("PUSHNOTIFICATION_API_KEY", "Your google account's SERVER key");
 define("PUSHNOTIFICATION_URL", "https://fcm.googleapis.com/fcm/send"); // for FCM
 ```
 
-Include your notifiation class
+Include your notification class
 ```
 require_once('../notification.class.php');
 $push = new notification();
